@@ -1,0 +1,29 @@
+Would like to use flarectl on mac to add 311 domains to CloudFlare.com
+
+Installed cloudflare-go using https://brew.sh and Go 
+
+With the command 
+
+go get -u github.com/cloudflare/cloudflare-go/
+
+
+Running:
+./flarectl h
+
+works and the displays latest version.
+
+
+
+
+
+
+QUESTION:
+Next thing is a problem:
+
+Re:
+"You must set your API key and account email address in the environment variables CF_API_KEY and CF_API_EMAIL."
+
+Could anyone please point in the right direction?
+
+Where is the / how to  "environment variable"?
+
